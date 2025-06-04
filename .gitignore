@@ -1,0 +1,21 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dataset (optional: 무거운 CSV는 올리지 않으려면)
+data/*.csv
